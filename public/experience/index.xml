@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Experiences on Md. Saimim Islam Khan Hamim</title>
-    <link>http://localhost:1313/experience/</link>
+    <link>ttps://localhost:1313/saimimgo.github.io/experience/</link>
     <description>Recent content in Experiences on Md. Saimim Islam Khan Hamim</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="ttps://localhost:1313/saimimgo.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic Experience</title>
-      <link>http://localhost:1313/experience/experience/</link>
+      <link>ttps://localhost:1313/saimimgo.github.io/experience/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/experience/</guid>
+      <guid>ttps://localhost:1313/saimimgo.github.io/experience/experience/</guid>
       <description>Teaching, research and mentoring experience</description>
     </item>
   </channel>
