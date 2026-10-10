@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Md. Saimim Islam Khan Hamim</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Md. Saimim Islam Khan Hamim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certificate of Appreciation, HIRL</title>
+      <link>http://localhost:1313/achievements/hirl-appreciation/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/achievements/hirl-appreciation/</guid>
+      <description>Certificate of Appreciation for service as Secretary of the Health Informatics Research Lab (HIRL), Daffodil International University, 2024-2025</description>
+    </item>
+    <item>
+      <title>Mentor, Machine Learning for Research Bootcamp 24</title>
+      <link>http://localhost:1313/achievements/ml-bootcamp-mentor/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/achievements/ml-bootcamp-mentor/</guid>
+      <description>Certificate of Achievement for mentoring in the Machine Learning for Research Bootcamp 24, DIU Computer &amp;amp; Programming Club</description>
+    </item>
+    <item>
+      <title>Code in Place 2024</title>
+      <link>http://localhost:1313/achievements/code-in-place-2024/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/achievements/code-in-place-2024/</guid>
+      <description>Certificate of Completion, Stanford University&amp;#39;s Code in Place (Python programming)</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>About Md. Saimim Islam Khan Hamim</description>
+    </item>
+    <item>
+      <title>Academic Experience</title>
+      <link>http://localhost:1313/experience/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/experience/</guid>
+      <description>Teaching, research and mentoring experience</description>
+    </item>
+  </channel>
+</rss>

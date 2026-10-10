@@ -1,0 +1,112 @@
+# =====================================================================
+# Hugo + PaperMod config for Md. Saimim Islam Khan Hamim
+# Place this file at the project root: portfolio/config.yaml
+# =====================================================================
+
+# TODO: replace with your real URL (GitHub Pages: https://<username>.github.io/<repo>/)
+baseURL: "https://saimim.github.io/"
+languageCode: "en-us"
+title: "Md. Saimim Islam Khan Hamim"
+theme: PaperMod
+
+# Pagination (Hugo 0.128+). On older Hugo versions use:  paginate: 10
+pagination:
+  pagerSize: 10
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+# Allow raw HTML inside markdown
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+params:
+  env: production
+  title: "Md. Saimim Islam Khan Hamim"
+  description: "MSc Researcher | NLP & Computer Vision | Lecturer, Daffodil International University"
+  author: "Md. Saimim Islam Khan Hamim"
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto          # auto | light | dark
+
+  # The home page lists posts from this section (renamed from "blog")
+  mainSections: ["achievements"]
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+  comments: false
+
+  # IMAGE: browser tab icon. Put these files in  static/images/
+  #   static/images/favicon.ico
+  #   static/images/favicon-16x16.png
+  #   static/images/favicon-32x32.png
+  #   static/images/apple-touch-icon.png
+  assets:
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+
+  # -------------------------------------------------------------------
+  # HOME PAGE (photo + name + subtitle + buttons)
+  # -------------------------------------------------------------------
+  profileMode:
+    enabled: true
+    title: "Md. Saimim Islam Khan Hamim"
+    subtitle: "MSc Researcher | NLP & Computer Vision | Lecturer, Daffodil International University"
+    # IMAGE: put your profile photo at  static/images/profile.jpg  (square, ~400x400)
+    imageUrl: "/home/photo_2026-09-04_10-56-10.jpg"
+    imageTitle: "Md. Saimim Islam Khan Hamim"
+    imageWidth: 150
+    imageHeight: 150
+    #buttons:
+      # - name: Experience
+      #   url: /experience/
+      # - name: Achievements
+      #   url: /achievements/
+
+  # -------------------------------------------------------------------
+  # SOCIAL ICONS (built into PaperMod, no image files needed)
+  # Add more only if you have them, e.g. github / linkedin.
+  # -------------------------------------------------------------------
+  socialIcons:
+    - name: email
+      url: "mailto:saimimislam@gmail.com"
+    - name: github
+      url: "https://github.com/saimim"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/saimim/"
+
+# =====================================================================
+# TOP MENU  ("Blog" renamed to "Achievements")
+# Each url must match a page inside  content/
+# =====================================================================
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/                  # content/about.md
+      weight: 10
+    - identifier: experience
+      name: Experience
+      url: /experience/             # content/experience.md
+      weight: 20
+    - identifier: achievements
+      name: Achievements
+      url: /achievements/           # content/achievements/  (was content/blog/)
+      weight: 30

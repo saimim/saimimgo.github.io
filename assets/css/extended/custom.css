@@ -1,0 +1,7 @@
+/* Stop oversized icons */
+.post-content svg,
+.breadcrumbs svg,
+.entry-content svg {
+  width: 1.2rem;
+  height: 1.2rem;
+}
