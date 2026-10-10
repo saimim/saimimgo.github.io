@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Machine Learning on Md. Saimim Islam Khan Hamim</title>
-    <link>ttps://localhost:1313/saimimgo.github.io/tags/machine-learning/</link>
+    <link>http://localhost:1313/saimimgo.github.io/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Md. Saimim Islam Khan Hamim</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="ttps://localhost:1313/saimimgo.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/saimimgo.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mentor, Machine Learning for Research Bootcamp 24</title>
-      <link>ttps://localhost:1313/saimimgo.github.io/achievements/ml-bootcamp-mentor/</link>
+      <link>http://localhost:1313/saimimgo.github.io/achievements/ml-bootcamp-mentor/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>ttps://localhost:1313/saimimgo.github.io/achievements/ml-bootcamp-mentor/</guid>
+      <guid>http://localhost:1313/saimimgo.github.io/achievements/ml-bootcamp-mentor/</guid>
       <description>Certificate of Achievement for mentoring in the Machine Learning for Research Bootcamp 24, DIU Computer &amp;amp; Programming Club</description>
     </item>
   </channel>

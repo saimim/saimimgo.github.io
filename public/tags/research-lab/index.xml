@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Research Lab on Md. Saimim Islam Khan Hamim</title>
-    <link>ttps://localhost:1313/saimimgo.github.io/tags/research-lab/</link>
+    <link>http://localhost:1313/saimimgo.github.io/tags/research-lab/</link>
     <description>Recent content in Research Lab on Md. Saimim Islam Khan Hamim</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="ttps://localhost:1313/saimimgo.github.io/tags/research-lab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/saimimgo.github.io/tags/research-lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Certificate of Appreciation, HIRL</title>
-      <link>ttps://localhost:1313/saimimgo.github.io/achievements/hirl-appreciation/</link>
+      <link>http://localhost:1313/saimimgo.github.io/achievements/hirl-appreciation/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>ttps://localhost:1313/saimimgo.github.io/achievements/hirl-appreciation/</guid>
+      <guid>http://localhost:1313/saimimgo.github.io/achievements/hirl-appreciation/</guid>
       <description>Certificate of Appreciation for service as Secretary of the Health Informatics Research Lab (HIRL), Daffodil International University, 2024-2025</description>
     </item>
   </channel>

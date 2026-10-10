@@ -4,7 +4,7 @@
 # =====================================================================
 
 # TODO: replace with your real URL (GitHub Pages: https://<username>.github.io/<repo>/)
-baseURL: "ttps://saimim.github.io/saimimgo.github.io/"
+baseURL: "https://saimim.github.io/saimimgo.github.io/"
 languageCode: "en-us"
 title: "Md. Saimim Islam Khan Hamim"
 theme: PaperMod
@@ -70,7 +70,7 @@ params:
     title: "Md. Saimim Islam Khan Hamim"
     subtitle: "MSc Researcher | NLP & Computer Vision | Lecturer, Daffodil International University"
     # IMAGE: put your profile photo at  static/images/profile.jpg  (square, ~400x400)
-    imageUrl: "/home/photo_2026-09-04_10-56-10.jpg"
+    imageUrl: "https://github.com/saimim/saimimgo.github.io/blob/main/static/home/photo_2026-09-04_10-56-10.jpg"
     imageTitle: "Md. Saimim Islam Khan Hamim"
     imageWidth: 150
     imageHeight: 150
